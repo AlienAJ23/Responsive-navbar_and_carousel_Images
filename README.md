@@ -8,4 +8,5 @@ In this website we designed a responsive navbar with hamburger icon and Carousel
 Copy the code to your local repository or Device and make changes as per requirement
 
 *TIP:*
+
 Try to understand before copying and using the code, why special feature or code is written.
